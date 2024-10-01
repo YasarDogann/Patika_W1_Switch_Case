@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\bin\Debug\net8.0\patika_w1_switch_case.exe
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\bin\Debug\net8.0\patika_w1_switch_case.deps.json
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\bin\Debug\net8.0\patika_w1_switch_case.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\bin\Debug\net8.0\patika_w1_switch_case.dll
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\bin\Debug\net8.0\patika_w1_switch_case.pdb
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\obj\Debug\net8.0\patika_w1_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\obj\Debug\net8.0\patika_w1_switch_case.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\obj\Debug\net8.0\patika_w1_switch_case.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\obj\Debug\net8.0\patika_w1_switch_case.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\obj\Debug\net8.0\patika_w1_switch_case.dll
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\obj\Debug\net8.0\refint\patika_w1_switch_case.dll
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\obj\Debug\net8.0\patika_w1_switch_case.pdb
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\obj\Debug\net8.0\patika_w1_switch_case.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_switch_case\patika_w1_switch_case\obj\Debug\net8.0\ref\patika_w1_switch_case.dll
